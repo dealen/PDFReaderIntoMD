@@ -1,4 +1,6 @@
 # Converter of pdf files
 
-Using Mistarl OCR https://mistral.ai/news/mistral-ocr
-Very simple console application. Still needs some work.
+This is a small .Net project that converts PDF files into Markdown files. It uses the Mistral [OCR](https://mistral.ai/news/mistral-ocr) and [Spectre.Console](https://spectreconsole.net/) library.
+Using Mistarl OCR 
+
+Work in progress.
